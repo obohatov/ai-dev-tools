@@ -137,3 +137,12 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Python venv
+.venv/
+01-todo/.venv/
+
+# Django cache / compiled files
+__pycache__/
+*.pyc
+учше
